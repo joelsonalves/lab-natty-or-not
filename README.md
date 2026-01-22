@@ -32,7 +32,7 @@ Foi usado o Gemini, a ferramenta Canvas e exportado o resultado final para o Goo
 Ativação da ferramenta Canvas do Gemini e solicitação de criação e ajustes nos slides de apresentação através de prompts.
 
 ## 🚀 Resultados
-https://docs.google.com/presentation/d/1cBl5chO7pDRK9n0cxeC0541phXwVFbfokU8P0rIuOwY/preview
+[Google Apresentação](https://docs.google.com/presentation/d/1cBl5chO7pDRK9n0cxeC0541phXwVFbfokU8P0rIuOwY/preview)
 
 ## 💭 Reflexão (Opcional)
 Divertido.
