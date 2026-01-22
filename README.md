@@ -20,22 +20,22 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Apresentação sobre Python
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Apresentação sobre Python criada com o Gemini usando a ferramenta Canvas
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Foi usado o Gemini, a ferramenta Canvas e exportado o resultado final para o Google Apresentações.
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Ativação da ferramenta Canvas do Gemini e solicitação de criação e ajustes nos slides de apresentação através de prompts.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+https://docs.google.com/presentation/d/1cBl5chO7pDRK9n0cxeC0541phXwVFbfokU8P0rIuOwY/preview
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+Divertido.
 ```
 
 ### Exemplos e Insigths
